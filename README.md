@@ -300,6 +300,6 @@ The full workflow logic, AI prompts, and automation scripts are kept private for
 
 Interested in a similar system for your business?
 
-- 📧 fares.amr@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 fares.m.elmetwaly@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fares-maaty/)
 - 💼 [Upwork Profile](https://upwork.com/your-profile)
