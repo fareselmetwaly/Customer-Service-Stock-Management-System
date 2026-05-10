@@ -25,7 +25,7 @@ A multi-agent AI system connected directly to Telegram that handles everything a
 
 ## 🗺️ System Architecture
 
-![System Architecture](./architecture.png)
+![System Architecture](./Arch_System.png)
 
 ```
 Customer Message (Telegram)
