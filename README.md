@@ -296,3 +296,4 @@ Interested in a similar system for your business?
 - 📧 fares.m.elmetwaly@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fares-maaty/)
 - 💼 [Upwork Profile](https://upwork.com/your-profile)
+- 💼 [Mostaql Profile](https://mostaql.com/u/fmaaty)
