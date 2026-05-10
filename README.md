@@ -131,7 +131,7 @@ Expected delivery: 2-3 days
 
 ### Part 6 — Sentiment Analysis (Post-Conversation)
 
-![Sentiment Analysis](./Sentiment.png)
+![Sentiment Analysis](./Sentiment .png)
 
 **When does it run?**
 After the conversation ends — not during it — to analyze the full picture.
