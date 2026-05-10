@@ -131,7 +131,7 @@ Expected delivery: 2-3 days
 
 ### Part 6 — Sentiment Analysis (Post-Conversation)
 
-![Sentiment Analysis](./Sentiment .png)
+![Sentiment Analysis](./Sentiment.png)
 
 **When does it run?**
 After the conversation ends — not during it — to analyze the full picture.
@@ -184,7 +184,7 @@ Action needed: Check Google Sheets API
 
 ### Part 8 — Admin Dashboard (Daily Report)
 
-![Admin Dashboard](./DailyReport.png)
+![Admin Dashboard](./Daily_Report.png)
 
 **What it does:**
 - Sends an automated daily report to admin via Telegram:
@@ -206,6 +206,7 @@ Action needed: Check Google Sheets API
 ---
 
 ### Part 9 — Human Escalation
+![Admin Dashboard](./Human.png)
 
 **What it does:**
 - If customer sentiment is extremely negative → escalates to human agent
