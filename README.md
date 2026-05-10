@@ -63,7 +63,7 @@ Customer        if needed
 
 ### Part 1 — Knowledge Base Setup
 
-![Knowledge Base](./screenshots/01_knowledge_source.png)
+![Knowledge Base](./KnowledgeSource.png)
 
 **What it does:**
 - Connects to Google Drive and pulls all business files and PDFs automatically
@@ -78,8 +78,6 @@ Customer        if needed
 
 ### Part 2 — Stock Management
 
-![Stock Management](./screenshots/02_stock.png)
-
 **What it does:**
 - Connected directly to Telegram for instant stock updates
 - Any inventory change is recorded immediately in Google Sheets
@@ -91,8 +89,6 @@ Customer        if needed
 ---
 
 ### Part 3 — Router Agent
-
-![Router Agent](./screenshots/03_router_agent.png)
 
 **What it does:**
 - Receives all customer messages from Telegram
@@ -106,8 +102,6 @@ Customer        if needed
 ---
 
 ### Part 4 — Orders Agent
-
-![Orders Agent](./screenshots/04_orders_agent.png)
 
 **What it does:**
 - Creates new orders with full customer details in Google Sheets
@@ -127,8 +121,6 @@ Expected delivery: 2-3 days
 
 ### Part 5 — Questions Agent
 
-![Questions Agent](./screenshots/05_questions_agent.png)
-
 **What it does:**
 - Searches Supabase Vector Database using RAG
 - Answers all product and service questions accurately
@@ -139,7 +131,7 @@ Expected delivery: 2-3 days
 
 ### Part 6 — Sentiment Analysis (Post-Conversation)
 
-![Sentiment Analysis](./screenshots/06_sentiment.png)
+![Sentiment Analysis](./Sentiment.png)
 
 **When does it run?**
 After the conversation ends — not during it — to analyze the full picture.
@@ -173,7 +165,7 @@ After the conversation ends — not during it — to analyze the full picture.
 
 ### Part 7 — Error Handling
 
-![Error Handling](./screenshots/07_error_handling.png)
+![Error Handling](./ErrorHandler.png)
 
 **What it does:**
 - If AI doesn't understand → replies politely asking for clarification
@@ -192,7 +184,7 @@ Action needed: Check Google Sheets API
 
 ### Part 8 — Admin Dashboard (Daily Report)
 
-![Admin Dashboard](./screenshots/08_admin_dashboard.png)
+![Admin Dashboard](./DailyReport.png)
 
 **What it does:**
 - Sends an automated daily report to admin via Telegram:
